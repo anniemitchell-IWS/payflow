@@ -24,14 +24,6 @@ PayFlow explores how a single platform could simplify this experience.
 
 ---
 
-## Project Status
-
-🚧 Product Management Case Study (In Progress)
-
-This repository documents the research, product thinking, design decisions, and evolution of the PayFlow concept.
-
----
-
 ## Repository Structure
 
 - **docs/** – Product documentation
