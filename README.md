@@ -26,11 +26,28 @@ PayFlow explores how a single platform could simplify this experience.
 
 ## Repository Structure
 
-- **docs/** – Product documentation
-- **assets/** – Mockups, screenshots, diagrams, and branding assets
+- 📄 [01. Executive Summary](01_Executive_Summary.md)
+- 📄 [02. The Problem](02_The_Problem.md)
+- 📄 [03. Why Now](03_Why_Now.md)
+- 📄 [04. Market Research](04_Market_Research.md)
+- 📄 [05. Our Solution](05_Our_Solution.md)
+- 📄 [06. Product Experience](06_Product_Experience.md)
+- 📄 [07. Product Decisions](07_Product_Decisions.md)
+- 📄 [08. Product Evolution](08_Product_Evolution.md)
+- 📄 [09. How I'd Measure Success](09_How_Id_Measure_Success.md)
+- 📄 [10. Final Reflection](10_Final_Reflection.md)
+
+### Supporting Resources
+
+-  Assets
+-  Presentation
+-  Research
+-  Prototype
 
 ---
 
 ## About This Repository
 
-This repository serves as the source of truth for the PayFlow project and supports my professional product management portfolio.
+This repository documents the complete product development journey behind PayFlow—from identifying the problem and conducting research to defining the solution, making product decisions, and measuring success.
+
+It reflects my approach to product management: understanding users, solving meaningful problems, and making decisions grounded in research.
