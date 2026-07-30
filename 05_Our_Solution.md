@@ -1,5 +1,5 @@
 # Our Solution
-
+> **Every paycheck. Every income stream. One place.**
 ## Overview
 
 PayFlow is a mobile-first financial platform designed specifically for people with variable income. Rather than focusing solely on budgeting, PayFlow helps users understand, organize, and verify their earnings across multiple income sources.
